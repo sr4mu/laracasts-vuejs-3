@@ -1,0 +1,31 @@
+{
+  "assignments": [
+    {
+      "name": "Exercice 6",
+      "complete": false,
+      "id": 1,
+      "tag": "maths"
+    },
+
+    {
+      "name": "Exercice 3",
+      "complete": false,
+      "id": 2,
+      "tag": "français"
+    },
+
+    {
+      "name": "Lecture Chapitre 2",
+      "complete": false,
+      "id": 3,
+      "tag": "physique"
+    },
+
+    {
+      "name": "Lecture Acte 3",
+      "complete": true,
+      "id": 4,
+      "tag": "français"
+    }
+  ]
+}
